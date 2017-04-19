@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 19, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Valerie Ida)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This lesson introduces the Document Object Model (DOM).  JavaScript gets all of the power it needs to create dynamic HTML from the DOM.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://vkida.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Access elements by id, tag name, class name, or selector)
+2. (Access element content, CSS properties, and attributes)
+3. (Use the History, Location, Navigation, and Screen objects to manipulate the browser window.)
